@@ -57,5 +57,6 @@ Developed by: RegisterNumber:*/
 **RTL Schematic**
 
 **Output/TIMING Waveform**
+![ex po 3 dia](https://github.com/user-attachments/assets/9512f805-9f91-4730-9093-bbbdcb7af686)
 
 **Result:**
